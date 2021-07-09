@@ -2257,9 +2257,9 @@ http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/138313
 http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/105957
 #EXTINF:-1 tvg-id="madisonsquaregardenplus.us" tvg-name="MSG PLUS" tvg-logo="http://107.152.105.108:81/Logo/USGENERAL/MSGPLUSHD.png" group-title="US| SPORTS",MSG PLUS
 http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/5817
-#EXTINF:-1 tvg-id="" tvg-name="MLS SOCCER 01:00:00 New England vs Toronto FC (07.07-12AM ET)" tvg-logo="HTTP://107.152.105.108:81/Logo/USGENERAL/US.GENE/MLSSOCCER.png" group-title="US| SPORTS",MLS SOCCER 01:00:00 New England vs Toronto FC (07.07-12AM ET)
+#EXTINF:-1 tvg-id="" tvg-name="MLS SOCCER 01: New York RB vs Philadelphia Union (07.09-1AM ET)" tvg-logo="HTTP://107.152.105.108:81/Logo/USGENERAL/US.GENE/MLSSOCCER.png" group-title="US| SPORTS",MLS SOCCER 01: New York RB vs Philadelphia Union (07.09-1AM ET)
 http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/186761
-#EXTINF:-1 tvg-id="" tvg-name="MLS SOCCER 02:00:30 Montreal Impact vs New York City (07.07-12:30AM ET)" tvg-logo="HTTP://107.152.105.108:81/Logo/USGENERAL/US.GENE/MLSSOCCER.png" group-title="US| SPORTS",MLS SOCCER 02:00:30 Montreal Impact vs New York City (07.07-12:30AM ET)
+#EXTINF:-1 tvg-id="" tvg-name="MLS SOCCER 02: Nashville SC vs Atlanta United (07.09-1:30AM ET)" tvg-logo="HTTP://107.152.105.108:81/Logo/USGENERAL/US.GENE/MLSSOCCER.png" group-title="US| SPORTS",MLS SOCCER 02: Nashville SC vs Atlanta United (07.09-1:30AM ET)
 http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/186760
 #EXTINF:-1 tvg-id="" tvg-name="MLS SOCCER 03:01:00 Chicago Fire vs Orlando City SC (07.07-1AM ET)" tvg-logo="HTTP://107.152.105.108:81/Logo/USGENERAL/US.GENE/MLSSOCCER.png" group-title="US| SPORTS",MLS SOCCER 03:01:00 Chicago Fire vs Orlando City SC (07.07-1AM ET)
 http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/186759
@@ -2835,7 +2835,7 @@ http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/154235
 http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/154234
 #EXTINF:-1 tvg-id="" tvg-name="### NBA ###" tvg-logo="http://107.152.105.108:81/Logo/USGENERAL/USGENERAL.png" group-title="US| NBA",### NBA ###
 http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/180051
-#EXTINF:-1 tvg-id="" tvg-name="NBA GAME 01: Milwaukee Bucks at Phoenix Suns (07.06-9PM ET)" tvg-logo="http://107.152.105.108:81/Logo/USNBC/NBA.png" group-title="US| NBA",NBA GAME 01: Milwaukee Bucks at Phoenix Suns (07.06-9PM ET)
+#EXTINF:-1 tvg-id="" tvg-name="NBA GAME 01: Milwaukee Bucks at Phoenix Suns (07.08-9PM ET)" tvg-logo="http://107.152.105.108:81/Logo/USNBC/NBA.png" group-title="US| NBA",NBA GAME 01: Milwaukee Bucks at Phoenix Suns (07.08-9PM ET)
 http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/181235
 #EXTINF:-1 tvg-id="" tvg-name="NBA GAME 02: Atlanta Hawks at Philadelphia 76ers (06.20-8PM ET)" tvg-logo="http://107.152.105.108:81/Logo/USNBC/NBA.png" group-title="US| NBA",NBA GAME 02: Atlanta Hawks at Philadelphia 76ers (06.20-8PM ET)
 http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/181234
@@ -2929,27 +2929,27 @@ http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/137951
 http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/137950
 #EXTINF:-1 tvg-id="" tvg-name="##### MLB #####" tvg-logo="http://107.152.105.108:81/Logo/USGENERAL/USGENERAL.png" group-title="US| MLB",##### MLB #####
 http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/154925
-#EXTINF:-1 tvg-id="" tvg-name="MLB GAME 01: Indians at Rays (07.07-12:10 PM ET)" tvg-logo="http://107.152.105.108:81/Logo/USNBC/MLBGAME.png" group-title="US| MLB",MLB GAME 01: Indians at Rays (07.07-12:10 PM ET)
+#EXTINF:-1 tvg-id="" tvg-name="MLB GAME 01: Dodgers at Marlins (07.08-12:10 PM ET)" tvg-logo="http://107.152.105.108:81/Logo/USNBC/MLBGAME.png" group-title="US| MLB",MLB GAME 01: Dodgers at Marlins (07.08-12:10 PM ET)
 http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/181674
-#EXTINF:-1 tvg-id="" tvg-name="MLB GAME 02: Indians at Rays GAME 2" tvg-logo="http://107.152.105.108:81/Logo/USNBC/MLBGAME.png" group-title="US| MLB",MLB GAME 02: Indians at Rays GAME 2
+#EXTINF:-1 tvg-id="" tvg-name="MLB GAME 02: Athletics at Astros (07.08-2:10 PM ET)" tvg-logo="http://107.152.105.108:81/Logo/USNBC/MLBGAME.png" group-title="US| MLB",MLB GAME 02: Athletics at Astros (07.08-2:10 PM ET)
 http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/180017
-#EXTINF:-1 tvg-id="" tvg-name="MLB GAME 03: Braves at Pirates (07.07-12:35 PM ET)" tvg-logo="http://107.152.105.108:81/Logo/USNBC/MLBGAME.png" group-title="US| MLB",MLB GAME 03: Braves at Pirates (07.07-12:35 PM ET)
+#EXTINF:-1 tvg-id="" tvg-name="MLB GAME 03: Rockies at D-backs (07.08-3:40 PM ET)" tvg-logo="http://107.152.105.108:81/Logo/USNBC/MLBGAME.png" group-title="US| MLB",MLB GAME 03: Rockies at D-backs (07.08-3:40 PM ET)
 http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/181675
-#EXTINF:-1 tvg-id="" tvg-name="MLB GAME 04: White Sox at Twins (07.07-1:10 PM ET)" tvg-logo="http://107.152.105.108:81/Logo/USNBC/MLBGAME.png" group-title="US| MLB",MLB GAME 04: White Sox at Twins (07.07-1:10 PM ET)
+#EXTINF:-1 tvg-id="" tvg-name="MLB GAME 04: Yankees at Mariners (07.08-4:10 PM ET)" tvg-logo="http://107.152.105.108:81/Logo/USNBC/MLBGAME.png" group-title="US| MLB",MLB GAME 04: Yankees at Mariners (07.08-4:10 PM ET)
 http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/180015
-#EXTINF:-1 tvg-id="" tvg-name="MLB GAME 05: Tigers at Rangers (07.07-2:05 PM ET)" tvg-logo="http://107.152.105.108:81/Logo/USNBC/MLBGAME.png" group-title="US| MLB",MLB GAME 05: Tigers at Rangers (07.07-2:05 PM ET)
+#EXTINF:-1 tvg-id="" tvg-name="MLB GAME 05: Blue Jays at Orioles (07.08-7:05 PM ET)" tvg-logo="http://107.152.105.108:81/Logo/USNBC/MLBGAME.png" group-title="US| MLB",MLB GAME 05: Blue Jays at Orioles (07.08-7:05 PM ET)
 http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/179466
-#EXTINF:-1 tvg-id="" tvg-name="MLB GAME 06: Reds at Royals (07.07-2:10 PM ET)" tvg-logo="http://107.152.105.108:81/Logo/USNBC/MLBGAME.png" group-title="US| MLB",MLB GAME 06: Reds at Royals (07.07-2:10 PM ET)
+#EXTINF:-1 tvg-id="" tvg-name="MLB GAME 06: Royals at Indians (07.08-7:10 PM ET)" tvg-logo="http://107.152.105.108:81/Logo/USNBC/MLBGAME.png" group-title="US| MLB",MLB GAME 06: Royals at Indians (07.08-7:10 PM ET)
 http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/180014
-#EXTINF:-1 tvg-id="" tvg-name="MLB GAME 07: Brewers at Mets (07.07-2:10 PM ET)" tvg-logo="http://107.152.105.108:81/Logo/USNBC/MLBGAME.png" group-title="US| MLB",MLB GAME 07: Brewers at Mets (07.07-2:10 PM ET)
+#EXTINF:-1 tvg-id="" tvg-name="MLB GAME 07: Pirates at Mets (07.08-7:10 PM ET)" tvg-logo="http://107.152.105.108:81/Logo/USNBC/MLBGAME.png" group-title="US| MLB",MLB GAME 07: Pirates at Mets (07.08-7:10 PM ET)
 http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/179467
-#EXTINF:-1 tvg-id="" tvg-name="MLB GAME 08: Red Sox at Angels (07.07-4:07 PM ET)" tvg-logo="http://107.152.105.108:81/Logo/USNBC/MLBGAME.png" group-title="US| MLB",MLB GAME 08: Red Sox at Angels (07.07-4:07 PM ET)
+#EXTINF:-1 tvg-id="" tvg-name="MLB GAME 08: Phillies at Cubs (07.08-8:05 PM ET)" tvg-logo="http://107.152.105.108:81/Logo/USNBC/MLBGAME.png" group-title="US| MLB",MLB GAME 08: Phillies at Cubs (07.08-8:05 PM ET)
 http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/179469
-#EXTINF:-1 tvg-id="" tvg-name="MLB GAME 09: Blue Jays at Orioles (07.07-7:05 PM ET)" tvg-logo="http://107.152.105.108:81/Logo/USNBC/MLBGAME.png" group-title="US| MLB",MLB GAME 09: Blue Jays at Orioles (07.07-7:05 PM ET)
+#EXTINF:-1 tvg-id="" tvg-name="MLB GAME 09: Tigers at Twins (07.08-8:10 PM ET)" tvg-logo="http://107.152.105.108:81/Logo/USNBC/MLBGAME.png" group-title="US| MLB",MLB GAME 09: Tigers at Twins (07.08-8:10 PM ET)
 http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/179464
-#EXTINF:-1 tvg-id="" tvg-name="MLB GAME 10: Dodgers at Marlins (07.07-7:10 PM ET)" tvg-logo="http://107.152.105.108:81/Logo/USNBC/MLBGAME.png" group-title="US| MLB",MLB GAME 10: Dodgers at Marlins (07.07-7:10 PM ET)
+#EXTINF:-1 tvg-id="" tvg-name="MLB GAME 10: Reds at Brewers (07.08-8:10 PM ET)" tvg-logo="http://107.152.105.108:81/Logo/USNBC/MLBGAME.png" group-title="US| MLB",MLB GAME 10: Reds at Brewers (07.08-8:10 PM ET)
 http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/180569
-#EXTINF:-1 tvg-id="" tvg-name="MLB GAME 11: Brewers at Mets (07.07-7:10 PM ET)" tvg-logo="http://107.152.105.108:81/Logo/USNBC/MLBGAME.png" group-title="US| MLB",MLB GAME 11: Brewers at Mets (07.07-7:10 PM ET)
+#EXTINF:-1 tvg-id="" tvg-name="MLB GAME 11: Nationals at Padres (07.08-9:10 PM ET)" tvg-logo="http://107.152.105.108:81/Logo/USNBC/MLBGAME.png" group-title="US| MLB",MLB GAME 11: Nationals at Padres (07.08-9:10 PM ET)
 http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/180013
 #EXTINF:-1 tvg-id="" tvg-name="MLB GAME 13: Athletics at Astros (07.07-8:10 PM ET)" tvg-logo="http://107.152.105.108:81/Logo/USNBC/MLBGAME.png" group-title="US| MLB",MLB GAME 13: Athletics at Astros (07.07-8:10 PM ET)
 http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/180011
