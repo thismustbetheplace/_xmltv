@@ -1447,7 +1447,7 @@ http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/6051
 http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/6225
 #EXTINF:-1 tvg-id="" tvg-name="CRYSTAL REALITY SHOW" tvg-logo="http://107.152.105.108:81/Logo/CRYSTALMOVIES/LOGOS2/REALITYSHOW.png" group-title="US| ENTERTAINEMENT",CRYSTAL REALITY SHOW
 http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/198840
-#EXTINF:-1 tvg-id="" tvg-name="CRYSTAL ADVICES" tvg-logo="" group-title="US| ENTERTAINEMENT",CRYSTAL ADVICES
+#EXTINF:-1 tvg-id="" tvg-name="CRYSTAL ADVICES" tvg-logo="http://107.152.105.108:81/Logo/CRYSTALMOVIES/ADVICE.png" group-title="US| ENTERTAINEMENT",CRYSTAL ADVICES
 http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/227053
 #EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/HGTV.png" group-title="US| ENTERTAINEMENT",HGTV
 http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/166607
@@ -3003,8 +3003,8 @@ http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/188508
 http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/188509
 #EXTINF:-1 tvg-id="" tvg-name=" CRYSTAL TRAP NATION" tvg-logo="http://107.152.105.108:81/Logo/CRYSTALMOVIES/CRYSTALTRAPNATION.png" group-title="US| MUSIC", CRYSTAL TRAP NATION
 http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/161796
-#EXTINF:-1 tvg-id="" tvg-name="CRYSTAL AFRO MUSIC" tvg-logo="http://107.152.105.108:81/Logo/CRYSTALMOVIES/MUSICLOGO.png" group-title="US| MUSIC",CRYSTAL AFRO MUSIC
-http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/221457
+#EXTINF:-1 tvg-id="" tvg-name="CRYSTAL AFRO MUSIC" tvg-logo="http://107.152.105.108:81/Logo/CRYSTALMOVIES/MUSICAFRO.png" group-title="US| MUSIC",CRYSTAL AFRO MUSIC
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/229151
 #EXTINF:-1 tvg-id="" tvg-name="CRYSTAL COVER MUSIC" tvg-logo="http://107.152.105.108:81/Logo/CRYSTALMOVIES/MUSICLOGO.png" group-title="US| MUSIC",CRYSTAL COVER MUSIC
 http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/126254
 #EXTINF:-1 tvg-id="thecowboychannel.us" tvg-name="COWBOY CHANNEL" tvg-logo="http://107.152.105.108:81/Logo/USMUSIC/COWBOYCHANNELHD.png" group-title="US| MUSIC",COWBOY CHANNEL
