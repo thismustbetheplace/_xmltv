@@ -11,8 +11,6 @@ http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/165893
 http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/165892
 #EXTINF:-1 tvg-id="cw.us" tvg-name="CW" tvg-logo="HTTP://107.152.105.108:81/Logo/USGENERAL/US.GENE/CWHD.png" group-title="US| GENERAL",CW
 http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/165891
-#EXTINF:-1 tvg-id="" tvg-name="KTVU PLUS" tvg-logo="HTTP://107.152.105.108:81/Logo/USGENERAL/US.GENE/KTVUPLUS.png" group-title="US| GENERAL",KTVU PLUS
-http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/165890
 #EXTINF:-1 tvg-id="" tvg-name="NBC UNIVERSO" tvg-logo="http://107.152.105.108:81/Logo/USGENERAL/NBCUNIVERSO.png" group-title="US| GENERAL",NBC UNIVERSO
 http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/138305
 #EXTINF:-1 tvg-id="" tvg-name="KTVU PLUS [SAN FRANCISCO]" tvg-logo="http://107.152.105.108:81/Logo/USGENERAL/US.GENE/KTVUPLUS.png" group-title="US| GENERAL",KTVU PLUS [SAN FRANCISCO]
@@ -117,7 +115,7 @@ http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/6231
 http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/6230
 #EXTINF:-1 tvg-id="" tvg-name="THE CW PIX 11" tvg-logo="http://107.152.105.108:81/Logo/USNBC/CW.png" group-title="US| MYTV-CW",THE CW PIX 11
 http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/138311
-#EXTINF:-1 tvg-id="" tvg-name="##### MY & CW #####" tvg-logo="http://107.152.105.108:81/Logo/USGENERAL/USGENERAL.png" group-title="US| MYTV-CW",##### MY & CW #####
+#EXTINF:-1 tvg-id="" tvg-name="##### MY &amp; CW #####" tvg-logo="http://107.152.105.108:81/Logo/USGENERAL/USGENERAL.png" group-title="US| MYTV-CW",##### MY &amp; CW #####
 http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/154602
 #EXTINF:-1 tvg-id="" tvg-name="MY 9" tvg-logo="http://107.152.105.108:81/Logo/USNBC/MYTVCW.png" group-title="US| MYTV-CW",MY 9
 http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/154601
@@ -4007,8 +4005,6 @@ http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/2002
 http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/2001
 #EXTINF:-1 tvg-id="" tvg-name="(ADULT) NUART TV" tvg-logo="" group-title="FOR ADULTS",(ADULT) NUART TV
 http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/2000
-#EXTINF:-1 tvg-id="" tvg-name="(ADULT) O LA LA TV" tvg-logo="" group-title="FOR ADULTS",(ADULT) O LA LA TV
-http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/1999
 #EXTINF:-1 tvg-id="" tvg-name="(ADULT) OLDTIMER" tvg-logo="" group-title="FOR ADULTS",(ADULT) OLDTIMER
 http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/1998
 #EXTINF:-1 tvg-id="" tvg-name="(ADULT) PASSION XXX" tvg-logo="" group-title="FOR ADULTS",(ADULT) PASSION XXX
@@ -4069,8 +4065,6 @@ http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/138007
 http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/1986
 #EXTINF:-1 tvg-id="" tvg-name="(ADULT) SECRET CIRCLE" tvg-logo="" group-title="FOR ADULTS",(ADULT) SECRET CIRCLE
 http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/1985
-#EXTINF:-1 tvg-id="" tvg-name="(ADULT) SEX ATION" tvg-logo="" group-title="FOR ADULTS",(ADULT) SEX ATION
-http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/1984
 #EXTINF:-1 tvg-id="" tvg-name="(ADULT) SEXT & SENSO" tvg-logo="" group-title="FOR ADULTS",(ADULT) SEXT & SENSO
 http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/1983
 #EXTINF:-1 tvg-id="" tvg-name="(ADULT) SEXTREME" tvg-logo="" group-title="FOR ADULTS",(ADULT) SEXTREME
@@ -4131,8 +4125,6 @@ http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/1944
 http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/1943
 #EXTINF:-1 tvg-id="" tvg-name="(ADULT) BLUE HUSTLER EUROPE" tvg-logo="" group-title="FOR ADULTS",(ADULT) BLUE HUSTLER EUROPE
 http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/1942
-#EXTINF:-1 tvg-id="" tvg-name="(ADULT) X-MO" tvg-logo="" group-title="FOR ADULTS",(ADULT) X-MO
-http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/1941
 #EXTINF:-1 tvg-id="" tvg-name="(ADULT) EMANUELLE" tvg-logo="" group-title="FOR ADULTS",(ADULT) EMANUELLE
 http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/1940
 #EXTINF:-1 tvg-id="" tvg-name="(ADULT) FAST BOYZ" tvg-logo="" group-title="FOR ADULTS",(ADULT) FAST BOYZ
