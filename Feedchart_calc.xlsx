@@ -1,4 +1,350 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="### BEIN GROUP ###" tvg-logo="http://107.152.105.108:81/Logo/UK/UKFLAG.png" group-title="UK| SPORTS",### BEIN GROUP ###
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4930
+#EXTINF:-1 tvg-id="" tvg-name="(UK-HD) BEIN SPORT" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/BEINSPORTS1HD.png" group-title="UK| SPORTS",(UK-HD) BEIN SPORT
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4929
+#EXTINF:-1 tvg-id="" tvg-name="(UK-HD) BEIN SPORTS NBA" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/BEINSPORTSNBAHD.png" group-title="UK| SPORTS",(UK-HD) BEIN SPORTS NBA
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4928
+#EXTINF:-1 tvg-id="" tvg-name="(UK-HD) BEIN SPORT NEWS" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/BEINSPORTNEWSHD.png" group-title="UK| SPORTS",(UK-HD) BEIN SPORT NEWS
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4927
+#EXTINF:-1 tvg-id="" tvg-name="(UK-HD) BEIN SPORTS PREMIUM 1" tvg-logo="http://107.152.105.108:81/Logo/bein/Logo/BEINSPORTS1HD.png" group-title="UK| SPORTS",(UK-HD) BEIN SPORTS PREMIUM 1
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4919
+#EXTINF:-1 tvg-id="" tvg-name="(UK-HD) BEIN SPORTS PREMIUM 2" tvg-logo="http://107.152.105.108:81/Logo/bein/Logo/BEINSPORTS2HD.png" group-title="UK| SPORTS",(UK-HD) BEIN SPORTS PREMIUM 2
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4918
+#EXTINF:-1 tvg-id="" tvg-name="(UK-HD) BEIN SPORTS PREMIUM 3" tvg-logo="http://107.152.105.108:81/Logo/bein/Logo/BEINSPORTS3HD.png" group-title="UK| SPORTS",(UK-HD) BEIN SPORTS PREMIUM 3
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4917
+#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="(UK-HD) BEIN SPORTS 1" tvg-logo="http://107.152.105.108:81/Logo/bein/Logo/BEINSPORTS1HD.png" group-title="UK| SPORTS",(UK-HD) BEIN SPORTS 1
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4926
+#EXTINF:-1 tvg-id="btsport2.uk" tvg-name="(UK-HD) BEIN SPORTS 2" tvg-logo="http://107.152.105.108:81/Logo/bein/Logo/BEINSPORTS2HD.png" group-title="UK| SPORTS",(UK-HD) BEIN SPORTS 2
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4925
+#EXTINF:-1 tvg-id="btsport3.uk" tvg-name="(UK-HD) BEIN SPORTS 3" tvg-logo="http://107.152.105.108:81/Logo/bein/Logo/BEINSPORTS3HD.png" group-title="UK| SPORTS",(UK-HD) BEIN SPORTS 3
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4924
+#EXTINF:-1 tvg-id="btsportx4.uk" tvg-name="(UK-HD) BEIN SPORTS 4" tvg-logo="http://107.152.105.108:81/Logo/bein/Logo/BEINSPORTS4HD.png" group-title="UK| SPORTS",(UK-HD) BEIN SPORTS 4
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4923
+#EXTINF:-1 tvg-id="btsportx5.uk" tvg-name="(UK-HD) BEIN SPORTS 5" tvg-logo="http://107.152.105.108:81/Logo/bein/Logo/BEINSPORTS5HD.png" group-title="UK| SPORTS",(UK-HD) BEIN SPORTS 5
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4922
+#EXTINF:-1 tvg-id="btsportx6.uk" tvg-name="(UK-HD) BEIN SPORTS 6" tvg-logo="http://107.152.105.108:81/Logo/bein/Logo/BEINSPORTS6HD.png" group-title="UK| SPORTS",(UK-HD) BEIN SPORTS 6
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4921
+#EXTINF:-1 tvg-id="" tvg-name="(UK-HD) BEIN SPORTS 7" tvg-logo="http://107.152.105.108:81/Logo/bein/Logo/BEINSPORTS7HD.png" group-title="UK| SPORTS",(UK-HD) BEIN SPORTS 7
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4920
+#EXTINF:-1 tvg-id="" tvg-name="(UK-HD) BEIN SPORTS XTRA 1" tvg-logo="http://107.152.105.108:81/Logo/bein/Logo/BEINSPORTS1HD.png" group-title="UK| SPORTS",(UK-HD) BEIN SPORTS XTRA 1
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4916
+#EXTINF:-1 tvg-id="" tvg-name="(UK-HD) BEIN SPORTS XTRA 2" tvg-logo="http://107.152.105.108:81/Logo/bein/Logo/BEINSPORTS2HD.png" group-title="UK| SPORTS",(UK-HD) BEIN SPORTS XTRA 2
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4915
+#EXTINF:-1 tvg-id="" tvg-name="(UK-HD) BEIN SPORTS 1 ENGLISH" tvg-logo="http://107.152.105.108:81/Logo/bein/Logo/BEINSPORTS1HD.png" group-title="UK| SPORTS",(UK-HD) BEIN SPORTS 1 ENGLISH
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4914
+#EXTINF:-1 tvg-id="" tvg-name="(UK-HD) BEIN SPORTS 2 ENGLISH" tvg-logo="http://107.152.105.108:81/Logo/bein/Logo/BEINSPORTS2HD.png" group-title="UK| SPORTS",(UK-HD) BEIN SPORTS 2 ENGLISH
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4913
+#EXTINF:-1 tvg-id="" tvg-name="(UK-HD) BEIN SPORTS 3 ENGLISH" tvg-logo="http://107.152.105.108:81/Logo/bein/Logo/BEINSPORTS3HD.png" group-title="UK| SPORTS",(UK-HD) BEIN SPORTS 3 ENGLISH
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4912
+#EXTINF:-1 tvg-id="" tvg-name="(UK-HD) BEIN SPORTS 1 FRENCH" tvg-logo="http://107.152.105.108:81/Logo/bein/Logo/BEINSPORTS1HD.png" group-title="UK| SPORTS",(UK-HD) BEIN SPORTS 1 FRENCH
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4911
+#EXTINF:-1 tvg-id="" tvg-name="### (UK-HD) SPORTS  ###" tvg-logo="http://107.152.105.108:81/Logo/UK/UKFLAG.png" group-title="UK| SPORTS",### (UK-HD) SPORTS  ###
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4910
+#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="(UK-HD) SKY SPORTS NEWS" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/SKYSPORTSNEWS.png" group-title="UK| SPORTS",(UK-HD) SKY SPORTS NEWS
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4909
+#EXTINF:-1 tvg-id="skysportsaction.uk" tvg-name="(UK-HD) SKY SPORTS ACTION" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/SKYSPORTSACTION.png" group-title="UK| SPORTS",(UK-HD) SKY SPORTS ACTION
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4908
+#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="(UK-HD) SKY SPORTS FOOTBALL" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/SKYSPORTSFOOTBALL.png" group-title="UK| SPORTS",(UK-HD) SKY SPORTS FOOTBALL
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4907
+#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="(UK-HD) SKY SPORTS MAIN EVENT" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/SKYSPORTSMAINEVENT.png" group-title="UK| SPORTS",(UK-HD) SKY SPORTS MAIN EVENT
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4906
+#EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-name="(UK-HD) SKY SPORTS PREMIER LEAGUE" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/SKYSPORTSPREMIERLEAGUE.png" group-title="UK| SPORTS",(UK-HD) SKY SPORTS PREMIER LEAGUE
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4905
+#EXTINF:-1 tvg-id="skysportsarena.uk" tvg-name="(UK-HD) SKY SPORTS ARENA" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/SKYSPORTSARENA.png" group-title="UK| SPORTS",(UK-HD) SKY SPORTS ARENA
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4904
+#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="(UK-HD) SKY SPORTS CRICKET" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/SKYSPORTSCRICKET.png" group-title="UK| SPORTS",(UK-HD) SKY SPORTS CRICKET
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4903
+#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="(UK-HD) SKY SPORTS F1" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/SKYSPORTSF1.png" group-title="UK| SPORTS",(UK-HD) SKY SPORTS F1
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4902
+#EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-name="(UK-HD) SKY SPORTS GOLF" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/SKYSPORTSGOLF.png" group-title="UK| SPORTS",(UK-HD) SKY SPORTS GOLF
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4901
+#EXTINF:-1 tvg-id="btsportespn.uk" tvg-name="(UK-HD) BT SPORTS ESPN" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/BTSPORTSESPN.png" group-title="UK| SPORTS",(UK-HD) BT SPORTS ESPN
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4900
+#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="(UK-HD) BT SPORTS 1" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/BTSPORTS1.png" group-title="UK| SPORTS",(UK-HD) BT SPORTS 1
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4899
+#EXTINF:-1 tvg-id="btsport2.uk" tvg-name="(UK-HD) BT SPORTS 2" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/BTSPORTS2.png" group-title="UK| SPORTS",(UK-HD) BT SPORTS 2
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4898
+#EXTINF:-1 tvg-id="btsport3.uk" tvg-name="(UK-HD) BT SPORTS 3" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/BTSPORTS3.png" group-title="UK| SPORTS",(UK-HD) BT SPORTS 3
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4897
+#EXTINF:-1 tvg-id="" tvg-name="(UK-HD) CHELSEA TV (LIVE ON MATCHES)" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/CHELSEATV.png" group-title="UK| SPORTS",(UK-HD) CHELSEA TV (LIVE ON MATCHES)
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4896
+#EXTINF:-1 tvg-id="" tvg-name="(UK-HD) RANGERS FC TV" tvg-logo="http://107.152.105.108:81/Logo/UK/RANGERSFCTV.png" group-title="UK| SPORTS",(UK-HD) RANGERS FC TV
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/91705
+#EXTINF:-1 tvg-id="boxnation.uk" tvg-name="(UK-HD) BOX NATION" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/BOXNATION.png" group-title="UK| SPORTS",(UK-HD) BOX NATION
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4895
+#EXTINF:-1 tvg-id="" tvg-name="### (UK-4K) SPORTS ###" tvg-logo="http://107.152.105.108:81/Logo/UK/UKFLAG.png" group-title="UK| SPORTS",### (UK-4K) SPORTS ###
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4806
+#EXTINF:-1 tvg-id="" tvg-name="(UK-4K) SKY SPORTS NEWS" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/SKYSPORTSNEWS.png" group-title="UK| SPORTS",(UK-4K) SKY SPORTS NEWS
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4805
+#EXTINF:-1 tvg-id="skysportsaction.uk" tvg-name="(UK-4K) SKY SPORTS ACTION" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/SKYSPORTSACTION.png" group-title="UK| SPORTS",(UK-4K) SKY SPORTS ACTION
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4804
+#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="(UK-4K) SKY SPORTS FOOTBALL" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/SKYSPORTSFOOTBALL.png" group-title="UK| SPORTS",(UK-4K) SKY SPORTS FOOTBALL
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4803
+#EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-name="(UK-4K) SKY SPORTS PREMIER LEAGUE" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/SKYSPORTSPREMIERLEAGUE.png" group-title="UK| SPORTS",(UK-4K) SKY SPORTS PREMIER LEAGUE
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4802
+#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="(UK-4K) SKY SPORTS MAIN EVENT" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/SKYSPORTSMAINEVENT.png" group-title="UK| SPORTS",(UK-4K) SKY SPORTS MAIN EVENT
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4801
+#EXTINF:-1 tvg-id="skysportsmix.uk" tvg-name="(UK-4K) SKY SPORT MIX" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/SKYSPORTMIX.png" group-title="UK| SPORTS",(UK-4K) SKY SPORT MIX
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4800
+#EXTINF:-1 tvg-id="skysportsracing.uk" tvg-name="(UK-4K) SKY SPORTS RACING" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/SKYSPORTSRACING.png" group-title="UK| SPORTS",(UK-4K) SKY SPORTS RACING
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4799
+#EXTINF:-1 tvg-id="skysportsarena.uk" tvg-name="(UK-4K) SKY SPORTS ARENA" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/SKYSPORTSARENA.png" group-title="UK| SPORTS",(UK-4K) SKY SPORTS ARENA
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4798
+#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="(UK-4K) SKY SPORTS CRICKET" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/SKYSPORTSCRICKET.png" group-title="UK| SPORTS",(UK-4K) SKY SPORTS CRICKET
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4797
+#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="(UK-4K) SKY SPORTS F1" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/SKYSPORTSF1.png" group-title="UK| SPORTS",(UK-4K) SKY SPORTS F1
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4796
+#EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-name="(UK-4K) SKY SPORTS GOLF" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/SKYSPORTSGOLF.png" group-title="UK| SPORTS",(UK-4K) SKY SPORTS GOLF
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4795
+#EXTINF:-1 tvg-id="btsportespn.uk" tvg-name="(UK-4K) BT SPORTS ESPN" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/BTSPORTSESPN.png" group-title="UK| SPORTS",(UK-4K) BT SPORTS ESPN
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4794
+#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="(UK-4K) BT SPORTS 1" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/BTSPORTS1.png" group-title="UK| SPORTS",(UK-4K) BT SPORTS 1
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4793
+#EXTINF:-1 tvg-id="" tvg-name="(UK-4K) BT SPORTS 2" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/BTSPORTS2.png" group-title="UK| SPORTS",(UK-4K) BT SPORTS 2
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4792
+#EXTINF:-1 tvg-id="btsport3.uk" tvg-name="(UK-4K) BT SPORTS 3" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/BTSPORTS3.png" group-title="UK| SPORTS",(UK-4K) BT SPORTS 3
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4791
+#EXTINF:-1 tvg-id="eurosport1.uk" tvg-name="(UK-4K) EUROSPORTS 1" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/EUROSPORT1.png" group-title="UK| SPORTS",(UK-4K) EUROSPORTS 1
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4790
+#EXTINF:-1 tvg-id="eurosport2.uk" tvg-name="(UK-4K) EUROSPORTS 2" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/EUROSPORT2.png" group-title="UK| SPORTS",(UK-4K) EUROSPORTS 2
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4789
+#EXTINF:-1 tvg-id="freesports.uk" tvg-name="(UK-4K) FREE SPORTS" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/FREESPORTS.png" group-title="UK| SPORTS",(UK-4K) FREE SPORTS
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4788
+#EXTINF:-1 tvg-id="liverpoolfctv.uk" tvg-name="(UK-4K) LFC" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/LFCTV.png" group-title="UK| SPORTS",(UK-4K) LFC
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4787
+#EXTINF:-1 tvg-id="premiersports.uk" tvg-name="(UK-4K) PREMIER SPORTS" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/PREMIERSPORTS.png" group-title="UK| SPORTS",(UK-4K) PREMIER SPORTS
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4786
+#EXTINF:-1 tvg-id="premiersports2.uk" tvg-name="(UK-4K) PREMIER SPORTS 2" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/PREMIERSPORTS2.png" group-title="UK| SPORTS",(UK-4K) PREMIER SPORTS 2
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4785
+#EXTINF:-1 tvg-id="racinguk.uk" tvg-name="(UK-4K) RACING UK" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/RACINGUK.png" group-title="UK| SPORTS",(UK-4K) RACING UK
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4784
+#EXTINF:-1 tvg-id="mutv.uk" tvg-name="(UK-4K) MUTV" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/MUTV.png" group-title="UK| SPORTS",(UK-4K) MUTV
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4783
+#EXTINF:-1 tvg-id="" tvg-name="(UK-4K) CELTIC TV (LIVE ON MATCHES)" tvg-logo="http://107.152.105.108:81/Logo/UK/CELTICTVHD.png" group-title="UK| SPORTS",(UK-4K) CELTIC TV (LIVE ON MATCHES)
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/67023
+#EXTINF:-1 tvg-id="btsportx6.uk" tvg-name="(UK-4K) BT SPORTS EXTRA 6" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/BTSPORTSEXTRA6.png" group-title="UK| SPORTS",(UK-4K) BT SPORTS EXTRA 6
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4776
+#EXTINF:-1 tvg-id="btsportx5.uk" tvg-name="(UK-4K) BT SPORTS EXTRA 5" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/BTSPORTSEXTRA5.png" group-title="UK| SPORTS",(UK-4K) BT SPORTS EXTRA 5
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4777
+#EXTINF:-1 tvg-id="btsportx4.uk" tvg-name="(UK-4K) BT SPORTS EXTRA 4" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/BTSPORTSEXTRA4.png" group-title="UK| SPORTS",(UK-4K) BT SPORTS EXTRA 4
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4778
+#EXTINF:-1 tvg-id="btsportx3.uk" tvg-name="(UK-4K) BT SPORTS EXTRA 3" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/BTSPORTSEXTRA3.png" group-title="UK| SPORTS",(UK-4K) BT SPORTS EXTRA 3
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4779
+#EXTINF:-1 tvg-id="btsportx2.uk" tvg-name="(UK-4K) BT SPORTS EXTRA 2" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/BTSPORTSEXTRA2.png" group-title="UK| SPORTS",(UK-4K) BT SPORTS EXTRA 2
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4780
+#EXTINF:-1 tvg-id="btsportx1.uk" tvg-name="(UK-4K) BT SPORTS EXTRA 1" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/BTSPORTSEXTRA1.png" group-title="UK| SPORTS",(UK-4K) BT SPORTS EXTRA 1
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4781
+#EXTINF:-1 tvg-id="" tvg-name="### (UK-4K) EVENTS ###" tvg-logo="http://107.152.105.108:81/Logo/UK/UKFLAG.png" group-title="UK| SPORTS",### (UK-4K) EVENTS ###
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4782
+#EXTINF:-1 tvg-id="" tvg-name="(UK-HD) PPV 1  (POIRIER V McGREGOR 3 10PM)" tvg-logo="http://107.152.105.108:81/Logo/USSPORTS/UFC.png" group-title="UK| SPORTS",(UK-HD) PPV 1  (POIRIER V McGREGOR 3 10PM)
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/26219
+#EXTINF:-1 tvg-id="" tvg-name="(UK-HD) PPV 2  (POIRIER V McGREGOR 3 10PM)" tvg-logo="http://107.152.105.108:81/Logo/USSPORTS/UFC.png" group-title="UK| SPORTS",(UK-HD) PPV 2  (POIRIER V McGREGOR 3 10PM)
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/26218
+#EXTINF:-1 tvg-id="" tvg-name="(UK-HD) PPV 3 (ONLY MATCH TIME)" tvg-logo="http://107.152.105.108:81/Logo/USSPORTS/UFC.png" group-title="UK| SPORTS",(UK-HD) PPV 3 (ONLY MATCH TIME)
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/26217
+#EXTINF:-1 tvg-id="" tvg-name="(UK-HD) PPV 4 (ONLY MATCH TIME)" tvg-logo="http://107.152.105.108:81/Logo/USSPORTS/UFC.png" group-title="UK| SPORTS",(UK-HD) PPV 4 (ONLY MATCH TIME)
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/26216
+#EXTINF:-1 tvg-id="" tvg-name="(UK-HD) PPV 5 ONLY MATCH TIME)" tvg-logo="http://107.152.105.108:81/Logo/USSPORTS/UFC.png" group-title="UK| SPORTS",(UK-HD) PPV 5 ONLY MATCH TIME)
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/86052
+#EXTINF:-1 tvg-id="" tvg-name="(UK-HD) PPV 6 (ONLY MATCH TIME)" tvg-logo="http://107.152.105.108:81/Logo/USSPORTS/UFC.png" group-title="UK| SPORTS",(UK-HD) PPV 6 (ONLY MATCH TIME)
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/26214
+#EXTINF:-1 tvg-id="" tvg-name="(UK-HD) PPV 7 (ONLY MATCH TIME)" tvg-logo="http://107.152.105.108:81/Logo/USSPORTS/UFC.png" group-title="UK| SPORTS",(UK-HD) PPV 7 (ONLY MATCH TIME)
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/93213
+#EXTINF:-1 tvg-id="" tvg-name="(UK-4K) IFOLLOW 1 : Peterborough United vs Derby County 1230PM" tvg-logo="http://107.152.105.108:81/Logo/UK/IFOLLOWCR.png" group-title="UK| SPORTS",(UK-4K) IFOLLOW 1 : Peterborough United vs Derby County 1230PM
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/229134
+#EXTINF:-1 tvg-id="" tvg-name="(UK-4K) IFOLLOW 2 : Birmingham City vs Stoke" tvg-logo="http://107.152.105.108:81/Logo/UK/IFOLLOWCR.png" group-title="UK| SPORTS",(UK-4K) IFOLLOW 2 : Birmingham City vs Stoke
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/229133
+#EXTINF:-1 tvg-id="" tvg-name="(UK-4K) IFOLLOW 3 : Blackpool vs Cardiff City" tvg-logo="http://107.152.105.108:81/Logo/UK/IFOLLOWCR.png" group-title="UK| SPORTS",(UK-4K) IFOLLOW 3 : Blackpool vs Cardiff City
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/229132
+#EXTINF:-1 tvg-id="" tvg-name="(UK-4K) IFOLLOW 4 : CARDIFF CITY VS BARNSLEY" tvg-logo="http://107.152.105.108:81/Logo/UK/IFOLLOWCR.png" group-title="UK| SPORTS",(UK-4K) IFOLLOW 4 : CARDIFF CITY VS BARNSLEY
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/229131
+#EXTINF:-1 tvg-id="" tvg-name="(UK-4K) IFOLLOW 5 : Nottingham Forest vs AFC Bournemouth" tvg-logo="http://107.152.105.108:81/Logo/UK/IFOLLOWCR.png" group-title="UK| SPORTS",(UK-4K) IFOLLOW 5 : Nottingham Forest vs AFC Bournemouth
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/229130
+#EXTINF:-1 tvg-id="" tvg-name="(UK-4K) IFOLLOW 6 : West Bromwich Albion vs Luton Town" tvg-logo="http://107.152.105.108:81/Logo/UK/IFOLLOWCR.png" group-title="UK| SPORTS",(UK-4K) IFOLLOW 6 : West Bromwich Albion vs Luton Town
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/229129
+#EXTINF:-1 tvg-id="" tvg-name="(UK-4K) IFOLLOW 7 : Reading vs Preston North End" tvg-logo="http://107.152.105.108:81/Logo/UK/IFOLLOWCR.png" group-title="UK| SPORTS",(UK-4K) IFOLLOW 7 : Reading vs Preston North End
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/229128
+#EXTINF:-1 tvg-id="" tvg-name="(UK-4K) IFOLLOW 8 : Millwall vs Blackburn Rovers" tvg-logo="http://107.152.105.108:81/Logo/UK/IFOLLOWCR.png" group-title="UK| SPORTS",(UK-4K) IFOLLOW 8 : Millwall vs Blackburn Rovers
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/229127
+#EXTINF:-1 tvg-id="" tvg-name="(UK-4K) IFOLLOW 9 : Hull City vs Queens Park Rangers" tvg-logo="http://107.152.105.108:81/Logo/UK/IFOLLOWCR.png" group-title="UK| SPORTS",(UK-4K) IFOLLOW 9 : Hull City vs Queens Park Rangers
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/229126
+#EXTINF:-1 tvg-id="" tvg-name="(UK-4K) IFOLLOW 10 : Huddersfield Town vs Fulham" tvg-logo="http://107.152.105.108:81/Logo/UK/IFOLLOWCR.png" group-title="UK| SPORTS",(UK-4K) IFOLLOW 10 : Huddersfield Town vs Fulham
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/229125
+#EXTINF:-1 tvg-id="" tvg-name="(UK-4K) IFOLLOW 11 : Barnsley vs Coventry City" tvg-logo="http://107.152.105.108:81/Logo/UK/IFOLLOWCR.png" group-title="UK| SPORTS",(UK-4K) IFOLLOW 11 : Barnsley vs Coventry City
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/229124
+#EXTINF:-1 tvg-id="" tvg-name="(UK-4K) IFOLLOW 12 : Coventry City vs Nottingham Forest" tvg-logo="http://107.152.105.108:81/Logo/UK/IFOLLOWCR.png" group-title="UK| SPORTS",(UK-4K) IFOLLOW 12 : Coventry City vs Nottingham Forest
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/229123
+#EXTINF:-1 tvg-id="" tvg-name="(UK) EFL1: Gillingham vs Bristol Rovers 20/02/21 13:00" tvg-logo="http://107.152.105.108:81/Logo/UK/eflcr.png" group-title="UK| SPORTS",(UK) EFL1: Gillingham vs Bristol Rovers 20/02/21 13:00
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/229390
+#EXTINF:-1 tvg-id="" tvg-name="(UK) EFL2: Accrington vs Shrewsbury 20/02/21 15:00" tvg-logo="http://107.152.105.108:81/Logo/UK/eflcr.png" group-title="UK| SPORTS",(UK) EFL2: Accrington vs Shrewsbury 20/02/21 15:00
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/229389
+#EXTINF:-1 tvg-id="" tvg-name="(UK) EFL3: Burton Albion vs Sunderland 20/02/21 15:00" tvg-logo="http://107.152.105.108:81/Logo/UK/eflcr.png" group-title="UK| SPORTS",(UK) EFL3: Burton Albion vs Sunderland 20/02/21 15:00
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/229388
+#EXTINF:-1 tvg-id="" tvg-name="(UK) EFL4: Doncaster vs Hull City 20/02/21 15:00" tvg-logo="http://107.152.105.108:81/Logo/UK/eflcr.png" group-title="UK| SPORTS",(UK) EFL4: Doncaster vs Hull City 20/02/21 15:00
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/229387
+#EXTINF:-1 tvg-id="" tvg-name="(UK) EFL5: Fleetwood vs Charlton 20/02/21 15:00" tvg-logo="http://107.152.105.108:81/Logo/UK/eflcr.png" group-title="UK| SPORTS",(UK) EFL5: Fleetwood vs Charlton 20/02/21 15:00
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/229386
+#EXTINF:-1 tvg-id="" tvg-name="(UK) EFL6: Ipswich Town vs Oxford Utd 20/02/21 15:00" tvg-logo="http://107.152.105.108:81/Logo/UK/eflcr.png" group-title="UK| SPORTS",(UK) EFL6: Ipswich Town vs Oxford Utd 20/02/21 15:00
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/229385
+#EXTINF:-1 tvg-id="" tvg-name="(UK) EFL7: Milton Keynes vs Northampton 20/02/21 15:00" tvg-logo="http://107.152.105.108:81/Logo/UK/eflcr.png" group-title="UK| SPORTS",(UK) EFL7: Milton Keynes vs Northampton 20/02/21 15:00
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/229384
+#EXTINF:-1 tvg-id="" tvg-name="(UK) EFL8: Peterborough vs AFC Wimbledon 20/02/21 15:00" tvg-logo="http://107.152.105.108:81/Logo/UK/eflcr.png" group-title="UK| SPORTS",(UK) EFL8: Peterborough vs AFC Wimbledon 20/02/21 15:00
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/229383
+#EXTINF:-1 tvg-id="" tvg-name="(UK) EFL9: Portsmouth vs Blackpool 20/02/21 15:00" tvg-logo="http://107.152.105.108:81/Logo/UK/eflcr.png" group-title="UK| SPORTS",(UK) EFL9: Portsmouth vs Blackpool 20/02/21 15:00
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/229382
+#EXTINF:-1 tvg-id="" tvg-name="(UK) EFL10: Rochdale vs Plymouth 20/02/21 15:00" tvg-logo="http://107.152.105.108:81/Logo/UK/eflcr.png" group-title="UK| SPORTS",(UK) EFL10: Rochdale vs Plymouth 20/02/21 15:00
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/229381
+#EXTINF:-1 tvg-id="" tvg-name="(UK) EFL11 : Swindon Town vs Crewe Alexandra 20/02/21 15:00" tvg-logo="http://107.152.105.108:81/Logo/UK/eflcr.png" group-title="UK| SPORTS",(UK) EFL11 : Swindon Town vs Crewe Alexandra 20/02/21 15:00
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/229380
+#EXTINF:-1 tvg-id="" tvg-name="(UK) EFL12: Wigan Athletic vs Lincoln City 20/02/21 15:00" tvg-logo="http://107.152.105.108:81/Logo/UK/eflcr.png" group-title="UK| SPORTS",(UK) EFL12: Wigan Athletic vs Lincoln City 20/02/21 15:00
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/229379
+#EXTINF:-1 tvg-id="" tvg-name="(UK-4K) BBC RED BUTTON 48" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/BBCREDBUTTONHD16.png" group-title="UK| SPORTS",(UK-4K) BBC RED BUTTON 48
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4728
+#EXTINF:-1 tvg-id="" tvg-name="(UK-4K) BBC RED BUTTON 47" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/BBCREDBUTTONHD16.png" group-title="UK| SPORTS",(UK-4K) BBC RED BUTTON 47
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4729
+#EXTINF:-1 tvg-id="" tvg-name="(UK-4K) BBC RED BUTTON 46" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/BBCREDBUTTONHD16.png" group-title="UK| SPORTS",(UK-4K) BBC RED BUTTON 46
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4730
+#EXTINF:-1 tvg-id="" tvg-name="(UK-4K) BBC RED BUTTON 45" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/BBCREDBUTTONHD16.png" group-title="UK| SPORTS",(UK-4K) BBC RED BUTTON 45
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4731
+#EXTINF:-1 tvg-id="" tvg-name="(UK-4K) BBC RED BUTTON 44" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/BBCREDBUTTONHD16.png" group-title="UK| SPORTS",(UK-4K) BBC RED BUTTON 44
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4732
+#EXTINF:-1 tvg-id="" tvg-name="(UK-4K) BBC RED BUTTON 43" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/BBCREDBUTTONHD16.png" group-title="UK| SPORTS",(UK-4K) BBC RED BUTTON 43
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4733
+#EXTINF:-1 tvg-id="" tvg-name="(UK-4K) BBC RED BUTTON 42" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/BBCREDBUTTONHD16.png" group-title="UK| SPORTS",(UK-4K) BBC RED BUTTON 42
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4734
+#EXTINF:-1 tvg-id="" tvg-name="(UK-4K) BBC RED BUTTON 41" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/BBCREDBUTTONHD16.png" group-title="UK| SPORTS",(UK-4K) BBC RED BUTTON 41
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4735
+#EXTINF:-1 tvg-id="" tvg-name="(UK-4K) BBC RED BUTTON 40" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/BBCREDBUTTONHD16.png" group-title="UK| SPORTS",(UK-4K) BBC RED BUTTON 40
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4736
+#EXTINF:-1 tvg-id="" tvg-name="(UK-4K) BBC RED BUTTON 39" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/BBCREDBUTTONHD16.png" group-title="UK| SPORTS",(UK-4K) BBC RED BUTTON 39
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4737
+#EXTINF:-1 tvg-id="" tvg-name="(UK-4K) BBC RED BUTTON 38" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/BBCREDBUTTONHD16.png" group-title="UK| SPORTS",(UK-4K) BBC RED BUTTON 38
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4738
+#EXTINF:-1 tvg-id="" tvg-name="(UK-4K) BBC RED BUTTON 37" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/BBCREDBUTTONHD16.png" group-title="UK| SPORTS",(UK-4K) BBC RED BUTTON 37
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4739
+#EXTINF:-1 tvg-id="" tvg-name="(UK-4K) BBC RED BUTTON 36" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/BBCREDBUTTONHD18.png" group-title="UK| SPORTS",(UK-4K) BBC RED BUTTON 36
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4740
+#EXTINF:-1 tvg-id="" tvg-name="(UK-4K) BBC RED BUTTON 35" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/BBCREDBUTTONHD16.png" group-title="UK| SPORTS",(UK-4K) BBC RED BUTTON 35
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4741
+#EXTINF:-1 tvg-id="" tvg-name="(UK-4K) BBC RED BUTTON 34" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/BBCREDBUTTONHD16.png" group-title="UK| SPORTS",(UK-4K) BBC RED BUTTON 34
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4742
+#EXTINF:-1 tvg-id="" tvg-name="(UK-4K) BBC RED BUTTON 33" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/BBCREDBUTTONHD16.png" group-title="UK| SPORTS",(UK-4K) BBC RED BUTTON 33
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4743
+#EXTINF:-1 tvg-id="" tvg-name="(UK-4K) BBC RED BUTTON 32" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/BBCREDBUTTONHD16.png" group-title="UK| SPORTS",(UK-4K) BBC RED BUTTON 32
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4744
+#EXTINF:-1 tvg-id="" tvg-name="(UK-4K) BBC RED BUTTON 31" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/BBCREDBUTTONHD16.png" group-title="UK| SPORTS",(UK-4K) BBC RED BUTTON 31
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4745
+#EXTINF:-1 tvg-id="" tvg-name="(UK-4K) BBC RED BUTTON 30" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/BBCREDBUTTONHD16.png" group-title="UK| SPORTS",(UK-4K) BBC RED BUTTON 30
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4746
+#EXTINF:-1 tvg-id="" tvg-name="(UK-4K) BBC RED BUTTON 29" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/BBCREDBUTTONHD16.png" group-title="UK| SPORTS",(UK-4K) BBC RED BUTTON 29
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4747
+#EXTINF:-1 tvg-id="" tvg-name="(UK-4K) BBC RED BUTTON 28" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/BBCREDBUTTONHD16.png" group-title="UK| SPORTS",(UK-4K) BBC RED BUTTON 28
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4748
+#EXTINF:-1 tvg-id="" tvg-name="(UK-4K) BBC RED BUTTON 27" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/BBCREDBUTTONHD18.png" group-title="UK| SPORTS",(UK-4K) BBC RED BUTTON 27
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4749
+#EXTINF:-1 tvg-id="" tvg-name="(UK-4K) BBC RED BUTTON 26" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/BBCREDBUTTONHD16.png" group-title="UK| SPORTS",(UK-4K) BBC RED BUTTON 26
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4750
+#EXTINF:-1 tvg-id="" tvg-name="(UK-4K) BBC RED BUTTON 25" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/BBCREDBUTTONHD16.png" group-title="UK| SPORTS",(UK-4K) BBC RED BUTTON 25
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4751
+#EXTINF:-1 tvg-id="" tvg-name="(UK-4K) BBC RED BUTTON 24" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/BBCREDBUTTONHD16.png" group-title="UK| SPORTS",(UK-4K) BBC RED BUTTON 24
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4752
+#EXTINF:-1 tvg-id="" tvg-name="(UK-4K) BBC RED BUTTON 23" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/BBCREDBUTTONHD16.png" group-title="UK| SPORTS",(UK-4K) BBC RED BUTTON 23
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4753
+#EXTINF:-1 tvg-id="" tvg-name="(UK-4K) BBC RED BUTTON 22" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/BBCREDBUTTONHD16.png" group-title="UK| SPORTS",(UK-4K) BBC RED BUTTON 22
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4754
+#EXTINF:-1 tvg-id="" tvg-name="(UK-4K) BBC RED BUTTON 21" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/BBCREDBUTTONHD18.png" group-title="UK| SPORTS",(UK-4K) BBC RED BUTTON 21
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4755
+#EXTINF:-1 tvg-id="" tvg-name="(UK-4K) BBC RED BUTTON 20" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/BBCREDBUTTONHD16.png" group-title="UK| SPORTS",(UK-4K) BBC RED BUTTON 20
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4756
+#EXTINF:-1 tvg-id="" tvg-name="(UK-4K) BBC RED BUTTON 19" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/BBCREDBUTTONHD16.png" group-title="UK| SPORTS",(UK-4K) BBC RED BUTTON 19
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4757
+#EXTINF:-1 tvg-id="" tvg-name="(UK-4K) BBC RED BUTTON 18" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/BBCREDBUTTONHD16.png" group-title="UK| SPORTS",(UK-4K) BBC RED BUTTON 18
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4758
+#EXTINF:-1 tvg-id="" tvg-name="(UK-4K) BBC RED BUTTON 17" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/BBCREDBUTTONHD16.png" group-title="UK| SPORTS",(UK-4K) BBC RED BUTTON 17
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4759
+#EXTINF:-1 tvg-id="" tvg-name="(UK-4K) BBC RED BUTTON 16" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/BBCREDBUTTONHD16.png" group-title="UK| SPORTS",(UK-4K) BBC RED BUTTON 16
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4760
+#EXTINF:-1 tvg-id="" tvg-name="(UK-4K) BBC RED BUTTON 15" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/BBCREDBUTTONHD15.png" group-title="UK| SPORTS",(UK-4K) BBC RED BUTTON 15
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4761
+#EXTINF:-1 tvg-id="" tvg-name="(UK-4K) BBC RED BUTTON 14" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/BBCREDBUTTONHD14.png" group-title="UK| SPORTS",(UK-4K) BBC RED BUTTON 14
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4762
+#EXTINF:-1 tvg-id="" tvg-name="(UK-4K) BBC RED BUTTON 12" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/BBCREDBUTTONHD12.png" group-title="UK| SPORTS",(UK-4K) BBC RED BUTTON 12
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4763
+#EXTINF:-1 tvg-id="" tvg-name="(UK-4K) BBC RED BUTTON 13" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/BBCREDBUTTONHD13.png" group-title="UK| SPORTS",(UK-4K) BBC RED BUTTON 13
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4764
+#EXTINF:-1 tvg-id="" tvg-name="(UK-4K) BBC RED BUTTON 11" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/BBCREDBUTTONHD11.png" group-title="UK| SPORTS",(UK-4K) BBC RED BUTTON 11
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4765
+#EXTINF:-1 tvg-id="" tvg-name="(UK-4K) BBC RED BUTTON 10" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/BBCREDBUTTONHD18.png" group-title="UK| SPORTS",(UK-4K) BBC RED BUTTON 10
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4766
+#EXTINF:-1 tvg-id="" tvg-name="(UK-4K) BBC RED BUTTON 9" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/BBCREDBUTTONHD18.png" group-title="UK| SPORTS",(UK-4K) BBC RED BUTTON 9
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4767
+#EXTINF:-1 tvg-id="" tvg-name="(UK-4K) BBC RED BUTTON 8" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/BBCREDBUTTONHD18.png" group-title="UK| SPORTS",(UK-4K) BBC RED BUTTON 8
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4768
+#EXTINF:-1 tvg-id="" tvg-name="(UK-4K) BBC RED BUTTON 7" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/BBCREDBUTTONHD18.png" group-title="UK| SPORTS",(UK-4K) BBC RED BUTTON 7
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4769
+#EXTINF:-1 tvg-id="" tvg-name="(UK-4K) BBC RED BUTTON 6" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/BBCREDBUTTONHD18.png" group-title="UK| SPORTS",(UK-4K) BBC RED BUTTON 6
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4770
+#EXTINF:-1 tvg-id="" tvg-name="(UK-4K) BBC RED BUTTON 5" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/BBCREDBUTTONHD18.png" group-title="UK| SPORTS",(UK-4K) BBC RED BUTTON 5
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4771
+#EXTINF:-1 tvg-id="" tvg-name="(UK-4K) BBC RED BUTTON 4" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/BBCREDBUTTONHD18.png" group-title="UK| SPORTS",(UK-4K) BBC RED BUTTON 4
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4772
+#EXTINF:-1 tvg-id="" tvg-name="(UK-4K) BBC RED BUTTON 3" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/BBCREDBUTTONHD18.png" group-title="UK| SPORTS",(UK-4K) BBC RED BUTTON 3
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4773
+#EXTINF:-1 tvg-id="" tvg-name="(UK-4K) BBC RED BUTTON 2" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/BBCREDBUTTONHD18.png" group-title="UK| SPORTS",(UK-4K) BBC RED BUTTON 2
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4774
+#EXTINF:-1 tvg-id="bbcrb1.uk" tvg-name="(UK-4K) BBC RED BUTTON 1" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/BBCREDBUTTONHD18.png" group-title="UK| SPORTS",(UK-4K) BBC RED BUTTON 1
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4775
+#EXTINF:-1 tvg-id="" tvg-name="### (UK-SD) SPORTS###" tvg-logo="http://107.152.105.108:81/Logo/UK/UKFLAG.png" group-title="UK| SPORTS",### (UK-SD) SPORTS###
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/11619
+#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="(UK-SD) SKY SPORTS NEWS" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/SKYSPORTSNEWS.png" group-title="UK| SPORTS",(UK-SD) SKY SPORTS NEWS
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/11618
+#EXTINF:-1 tvg-id="skysportsaction.uk" tvg-name="(UK-SD) SKY SPORTS ACTION" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/SKYSPORTSACTION.png" group-title="UK| SPORTS",(UK-SD) SKY SPORTS ACTION
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/11617
+#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="(UK-SD) SKY SPORTS FOOTBALL" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/SKYSPORTSFOOTBALL.png" group-title="UK| SPORTS",(UK-SD) SKY SPORTS FOOTBALL
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/11616
+#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="(UK-SD) SKY SPORTS MAIN EVENT" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/SKYSPORTSMAINEVENT.png" group-title="UK| SPORTS",(UK-SD) SKY SPORTS MAIN EVENT
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/11615
+#EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-name="(UK-SD) SKY SPORTS PREMIER LEAGUE" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/SKYSPORTSPREMIERLEAGUE.png" group-title="UK| SPORTS",(UK-SD) SKY SPORTS PREMIER LEAGUE
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/11614
+#EXTINF:-1 tvg-id="skysportsracing.uk" tvg-name="(UK-SD) SKY SPORTS RACING" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/SKYSPORTSRACING.png" group-title="UK| SPORTS",(UK-SD) SKY SPORTS RACING
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/11613
+#EXTINF:-1 tvg-id="skysportsarena.uk" tvg-name="(UK-SD) SKY SPORTS ARENA" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/SKYSPORTSARENA.png" group-title="UK| SPORTS",(UK-SD) SKY SPORTS ARENA
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/11612
+#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="(UK-SD) SKY SPORTS CRICKET" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/SKYSPORTSCRICKET.png" group-title="UK| SPORTS",(UK-SD) SKY SPORTS CRICKET
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/11611
+#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="(UK-SD) SKY SPORTS F1" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/SKYSPORTSF1.png" group-title="UK| SPORTS",(UK-SD) SKY SPORTS F1
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/11610
+#EXTINF:-1 tvg-id="skysportsmix.uk" tvg-name="(UK-SD) SKY SPORT MIX" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/SKYSPORTMIX.png" group-title="UK| SPORTS",(UK-SD) SKY SPORT MIX
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/11609
+#EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-name="(UK-SD) SKY SPORTS GOLF" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/SKYSPORTSGOLF.png" group-title="UK| SPORTS",(UK-SD) SKY SPORTS GOLF
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/11608
+#EXTINF:-1 tvg-id="btsportespn.uk" tvg-name="(UK-SD) BT SPORTS ESPN" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/BTSPORTSESPN.png" group-title="UK| SPORTS",(UK-SD) BT SPORTS ESPN
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/11607
+#EXTINF:-1 tvg-id="" tvg-name="(UK-SD) BT SPORTS 1" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/BTSPORTS1.png" group-title="UK| SPORTS",(UK-SD) BT SPORTS 1
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/11606
+#EXTINF:-1 tvg-id="btsport2.uk" tvg-name="(UK-SD) BT SPORTS 2" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/BTSPORTS2.png" group-title="UK| SPORTS",(UK-SD) BT SPORTS 2
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/11605
+#EXTINF:-1 tvg-id="btsport3.uk" tvg-name="(UK-SD) BT SPORTS 3" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/BTSPORTS3.png" group-title="UK| SPORTS",(UK-SD) BT SPORTS 3
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/11604
+#EXTINF:-1 tvg-id="" tvg-name="(UK-SD) BT SPORTS MOSAIC" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/BTSPORTSMOSAIC.png" group-title="UK| SPORTS",(UK-SD) BT SPORTS MOSAIC
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/11603
+#EXTINF:-1 tvg-id="eurosport1.uk" tvg-name="(UK-SD) EUROSPORT 1" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/EUROSPORT1.png" group-title="UK| SPORTS",(UK-SD) EUROSPORT 1
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/11601
+#EXTINF:-1 tvg-id="eurosport2.uk" tvg-name="(UK-SD) EUROSPORT 2" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/EUROSPORT2.png" group-title="UK| SPORTS",(UK-SD) EUROSPORT 2
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/11600
+#EXTINF:-1 tvg-id="boxnation.uk" tvg-name="(UK-SD) BOX NATION" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/BOXNATION.png" group-title="UK| SPORTS",(UK-SD) BOX NATION
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/11599
+#EXTINF:-1 tvg-id="freesports.uk" tvg-name="(UK-SD) FREE SPORTS" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/FREESPORTS.png" group-title="UK| SPORTS",(UK-SD) FREE SPORTS
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/11598
+#EXTINF:-1 tvg-id="mutv.uk" tvg-name="(UK-SD) MUTV" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/MUTV.png" group-title="UK| SPORTS",(UK-SD) MUTV
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/11596
+#EXTINF:-1 tvg-id="premiersports.uk" tvg-name="(UK-SD) PREMIER SPORTS" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/PREMIERSPORTS.png" group-title="UK| SPORTS",(UK-SD) PREMIER SPORTS
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/11595
+#EXTINF:-1 tvg-id="premiersports2.uk" tvg-name="(UK-SD) PREMIER SPORTS 2" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/PREMIERSPORTS2.png" group-title="UK| SPORTS",(UK-SD) PREMIER SPORTS 2
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/11594
+#EXTINF:-1 tvg-id="racinguk.uk" tvg-name="(UK-SD) RACING UK" tvg-logo="http://107.152.105.108:81/Logo/UK/LOGO/RACINGUK.png" group-title="UK| SPORTS",(UK-SD) RACING UK
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/11593
 #EXTINF:-1 tvg-id="" tvg-name="### GENERAL ###" tvg-logo="http://107.152.105.108:81/Logo/USGENERAL/USGENERAL.png" group-title="US| GENERAL",### GENERAL ###
 http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/51907
 #EXTINF:-1 tvg-id="" tvg-name="7NEWS BOSTON" tvg-logo="HTTP://107.152.105.108:81/Logo/USGENERAL/US.GENE/7NEWSBOSTON.png" group-title="US| GENERAL",7NEWS BOSTON
@@ -3097,6 +3443,8 @@ http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/124901
 http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/118216
 #EXTINF:-1 tvg-id="" tvg-name="CRYSTAL BABYBUS" tvg-logo="http://107.152.105.108:81/Logo/CRYSTALMOVIES/BABYBUS.png" group-title="US| KIDS",CRYSTAL BABYBUS
 http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/112605
+#EXTINF:-1 tvg-id="" tvg-name="CRYSTAL RABBIDS" tvg-logo="http://107.152.105.108:81/Logo/CRYSTALMOVIES/RABBIDS.png" group-title="US| KIDS",CRYSTAL RABBIDS
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/230915
 #EXTINF:-1 tvg-id="" tvg-name="CRYSTAL PEPPA PIG" tvg-logo="http://107.152.105.108:81/Logo/CRYSTALMOVIES/peppapig2.png" group-title="US| KIDS",CRYSTAL PEPPA PIG
 http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/226481
 #EXTINF:-1 tvg-id="" tvg-name="CRYSTAL OGGY" tvg-logo="http://107.152.105.108:81/Logo/CRYSTALMOVIES/OGGYLOGO.png" group-title="US| KIDS",CRYSTAL OGGY
