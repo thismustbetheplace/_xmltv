@@ -137,9 +137,9 @@ http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4780
 http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4781
 #EXTINF:-1 tvg-id="" tvg-name="### (UK-4K) EVENTS ###" tvg-logo="http://107.152.105.108:81/Logo/UK/UKFLAG.png" group-title="UK| SPORTS",### (UK-4K) EVENTS ###
 http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/4782
-#EXTINF:-1 tvg-id="" tvg-name="(UK-HD) PPV 1  (BADR HARI VS ARKADIUSZ WRZOSEK)" tvg-logo="http://107.152.105.108:81/Logo/CRYSTALMOVIES/test1.2.png" group-title="UK| SPORTS",(UK-HD) PPV 1  (BADR HARI VS ARKADIUSZ WRZOSEK)
+#EXTINF:-1 tvg-id="" tvg-name="(UK-HD) PPV 1 (ONLY DURING LIVE MATCHES)" tvg-logo="http://107.152.105.108:81/Logo/CRYSTALMOVIES/test1.2.png" group-title="UK| SPORTS",(UK-HD) PPV 1 (ONLY DURING LIVE MATCHES)
 http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/26219
-#EXTINF:-1 tvg-id="" tvg-name="(UK-HD) PPV 2  (BADR HARI VS ARKADIUSZ WRZOSEK)" tvg-logo="http://107.152.105.108:81/Logo/CRYSTALMOVIES/test1.2.png" group-title="UK| SPORTS",(UK-HD) PPV 2  (BADR HARI VS ARKADIUSZ WRZOSEK)
+#EXTINF:-1 tvg-id="" tvg-name="(UK-HD) PPV 2  (ONLY DURING LIVE MATCHES)" tvg-logo="http://107.152.105.108:81/Logo/CRYSTALMOVIES/test1.2.png" group-title="UK| SPORTS",(UK-HD) PPV 2  (ONLY DURING LIVE MATCHES)
 http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/26218
 #EXTINF:-1 tvg-id="" tvg-name="(UK-HD) PPV 3 (ONLY MATCH TIME)" tvg-logo="http://107.152.105.108:81/Logo/USSPORTS/UFC.png" group-title="UK| SPORTS",(UK-HD) PPV 3 (ONLY MATCH TIME)
 http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/26217
@@ -1791,6 +1791,8 @@ http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/6225
 http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/198840
 #EXTINF:-1 tvg-id="" tvg-name="CRYSTAL ADVICES" tvg-logo="http://107.152.105.108:81/Logo/CRYSTALMOVIES/ADVICE.png" group-title="US| ENTERTAINEMENT",CRYSTAL ADVICES
 http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/227053
+#EXTINF:-1 tvg-id="" tvg-name="CRYSTAL JUST FOR LAUGHS" tvg-logo="http://107.152.105.108:81/Logo/CRYSTALMOVIES/JUSTFORLAUGHTS.png" group-title="US| ENTERTAINEMENT",CRYSTAL JUST FOR LAUGHS
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/232838
 #EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/HGTV.png" group-title="US| ENTERTAINEMENT",HGTV
 http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/166607
 #EXTINF:-1 tvg-id="" tvg-name="WGN 9 CHICAGO" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/WGN9.png" group-title="US| ENTERTAINEMENT",WGN 9 CHICAGO
