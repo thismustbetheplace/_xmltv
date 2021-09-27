@@ -2349,6 +2349,10 @@ http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/66038
 http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/5870
 #EXTINF:-1 tvg-id="nflnetwork.us" tvg-name="NFL NETWORK" tvg-logo="http://107.152.105.108:81/Logo/USSPORTS/NFLNETWORKHD.png" group-title="US| SPORTS",NFL NETWORK
 http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/5871
+#EXTINF:-1 tvg-id="" tvg-name="TVG NETWORK" tvg-logo="http://107.152.105.108:81/Logo/USSPORTS/TVGNETWORKHD.png" group-title="US| SPORTS",TVG NETWORK
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/5823
+#EXTINF:-1 tvg-id="tvg2.us" tvg-name="TVG 2 NETWORK" tvg-logo="http://107.152.105.108:81/Logo/USSPORTS/TVG2NETWORKHD.png" group-title="US| SPORTS",TVG 2 NETWORK
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/5824
 #EXTINF:-1 tvg-id="" tvg-name="FANTASY SPORTS NETWORK" tvg-logo="http://107.152.105.108:81/Logo/USGENERAL/FANTASYSPORTSNETWORK.png" group-title="US| SPORTS",FANTASY SPORTS NETWORK
 http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/138319
 #EXTINF:-1 tvg-id="" tvg-name="GINX ESPORTS TV" tvg-logo="http://107.152.105.108:81/Logo/USSPORTS/GINXESPORTSTVHD.png" group-title="US| SPORTS",GINX ESPORTS TV
