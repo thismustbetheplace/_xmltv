@@ -1793,6 +1793,10 @@ http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/198840
 http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/227053
 #EXTINF:-1 tvg-id="" tvg-name="CRYSTAL JUST FOR LAUGHS" tvg-logo="http://107.152.105.108:81/Logo/CRYSTALMOVIES/JUSTFORLAUGHTS.png" group-title="US| ENTERTAINEMENT",CRYSTAL JUST FOR LAUGHS
 http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/232838
+#EXTINF:-1 tvg-id="" tvg-name="GOT TALENTS GLOBAL" tvg-logo="http://107.152.105.108:81/Logo/CRYSTALMOVIES/GOTTALENTLOGO.png" group-title="US| ENTERTAINEMENT",GOT TALENTS GLOBAL
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/239313
+#EXTINF:-1 tvg-id="" tvg-name="CRYSTAL FOOD WORLD" tvg-logo="http://107.152.105.108:81/Logo/CRYSTALMOVIES/foodcrystal.png" group-title="US| ENTERTAINEMENT",CRYSTAL FOOD WORLD
+http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/229110
 #EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/HGTV.png" group-title="US| ENTERTAINEMENT",HGTV
 http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/166607
 #EXTINF:-1 tvg-id="" tvg-name="WGN 9 CHICAGO" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/WGN9.png" group-title="US| ENTERTAINEMENT",WGN 9 CHICAGO
@@ -1921,8 +1925,6 @@ http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/6187
 http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/6192
 #EXTINF:-1 tvg-id="cookingchannel.us" tvg-name="COOKING CHANNEL" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/COOKINGCHANNELUHD.png" group-title="US| ENTERTAINEMENT",COOKING CHANNEL
 http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/6194
-#EXTINF:-1 tvg-id="" tvg-name="CRYSTAL FOOD WORLD" tvg-logo="http://107.152.105.108:81/Logo/CRYSTALMOVIES/foodcrystal.png" group-title="US| ENTERTAINEMENT",CRYSTAL FOOD WORLD
-http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/229110
 #EXTINF:-1 tvg-id="foodnetwork.us" tvg-name="FOOD NETWORK " tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/FOODNETWORKWESTUHD.png" group-title="US| ENTERTAINEMENT",FOOD NETWORK 
 http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/6195
 #EXTINF:-1 tvg-id="smithsonianchannel.us" tvg-name="SMITHSONIAN" tvg-logo="http://107.152.105.108:81/Logo/USENTERTAINEMENT/SmithsonianChannelWESTHD.png" group-title="US| ENTERTAINEMENT",SMITHSONIAN
