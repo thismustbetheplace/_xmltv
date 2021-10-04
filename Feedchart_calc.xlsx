@@ -1465,7 +1465,7 @@ http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/154385
 http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/154384
 #EXTINF:-1 tvg-id="" tvg-name="CBS 46 [ATLANTA GA]" tvg-logo="HTTP://107.152.105.108:81/Logo/USNBC/CBS.png" group-title="US| CBS NETWORK",CBS 46 [ATLANTA GA]
 http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/154383
-#EXTINF:-1 tvg-id="" tvg-name="CBS 46 [MONTEREY]" tvg-logo="HTTP://107.152.105.108:81/Logo/USNBC/CBS.png" group-title="US| CBS NETWORK",CBS 46 [MONTEREY]
+#EXTINF:-1 tvg-id="" tvg-name="CBS 46 [MONTEREY]" tvg-logo="http://107.152.105.108:81/Logo/USNBC/CBS.png" group-title="US| CBS NETWORK",CBS 46 [MONTEREY]
 http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/154382
 #EXTINF:-1 tvg-id="" tvg-name="CBS 47 [JACKSONVILLE FL]" tvg-logo="HTTP://107.152.105.108:81/Logo/USNBC/CBS.png" group-title="US| CBS NETWORK",CBS 47 [JACKSONVILLE FL]
 http://line.crystalott.net:80/BGKDDJBMFT/VNHMZS9OSD/154380
